@@ -2,10 +2,14 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - matplotlib
-  - pandas
-  - sympy
-  - scipy
-  - seaborn
-  - xelatex
+  - python=3.7    # Python version 3.6
+  - ipython       # IPython interpreter and tool
+  - jupyter       # Jupyter federation architecture
+  - numpy         # N-d array and numerics
+  - matplotlib    # 2D plotting library
+  - pandas        # Labeled array library
+  - sympy         # Symbolic mathematics
+  - scipy         # Common math/stats/science function
+  - seaborn       # Statistical visualizations
+  - xelatex       # ipynb-> pdf via latex
+  - h5py          # Wrapper for HDF5
