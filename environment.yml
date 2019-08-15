@@ -11,5 +11,4 @@ dependencies:
   - sympy         # Symbolic mathematics
   - scipy         # Common math/stats/science function
   - seaborn       # Statistical visualizations
-  - xelatex       # ipynb-> pdf via latex
   - h5py          # Wrapper for HDF5
