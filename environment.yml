@@ -8,3 +8,4 @@ dependencies:
   - sympy
   - scipy
   - seaborn
+  - xelatex
