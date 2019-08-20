@@ -2,7 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python=3.7    # Python version 3.6
+  - python=3.7    # Python version 3.7
   - ipython       # IPython interpreter and tool
   - jupyter       # Jupyter federation architecture
   - numpy         # N-d array and numerics
