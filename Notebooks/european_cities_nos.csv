@@ -1,0 +1,106 @@
+Rank,City,State,Population,Date of census/estimate
+1,London[2],United Kingdom           ,8615246,1-Jun-14
+2,Berlin,Germany,3437916,31-May-14
+3,Madrid,Spain,3165235,1-Jan-14
+4,Rome,Italy,2872086,30-Sep-14
+5,Paris,France,2273305,1-Jan-13
+6,Bucharest,Romania,1883425,20-Oct-11
+7,Vienna,Austria,1794770,1-Jan-15
+8,Hamburg[10],Germany,1746342,30-Dec-13
+9,Budapest,Hungary,1744665,1-Jan-14
+10,Warsaw,Poland,1729119,31-Mar-14
+11,Barcelona,Spain,1602386,1-Jan-14
+12,Munich,Germany,1407836,31-Dec-13
+13,Milan,Italy,1332516,30-Sep-14
+14,Sofia,Bulgaria,1291895,14-Dec-14
+15,Prague,Czech Republic,1246780,1-Jan-13
+16,Brussels[17],Belgium,1175831,1-Jan-14
+17,Birmingham,United Kingdom,1092330,30-Jun-13
+18,Cologne,Germany,1034175,31-Dec-13
+19,Naples,Italy,989845,30-Sep-14
+20,Stockholm,Sweden,909976,31-Jan-14
+21,Turin,Italy,898095,30-Sep-14
+22,Marseille,France,852516,31-Dec-12
+23,Amsterdam,Netherlands,813562,31-May-14
+24,Zagreb,Croatia,790017,31-Mar-11
+25,Valencia,Spain,786424,1-Jan-14
+26,Krak—w,Poland,760700,31-Mar-14
+27,Leeds,United Kingdom,757655,30-Jun-12
+28,_—d_,Poland,709757,31-Mar-14
+29,Frankfurt,Germany,701350,31-Dec-13
+30,Riga,Latvia,701185,1-Jan-14
+31,Seville,Spain,696676,1-Jan-14
+32,Palermo,Italy,677015,31-Jul-14
+33,Zaragoza,Spain,666058,1-Jan-14
+34,Athens,Greece,664046,24-May-11
+35,Wroc_aw,Poland,632432,31-Mar-14
+37,Rotterdam,Netherlands,616528,31-Jan-13
+38,Helsinki,Finland,605523,28-Feb-13
+39,Stuttgart,Germany,604297,31-Dec-13
+40,Glasgow,United Kingdom,596550,31-Dec-13
+41,Genoa,Italy,594774,31-Jul-14
+42,DŸsseldorf,Germany,593682,31-Dec-12
+42,Dortmund,Germany,575944,31-Dec-13
+43,Essen,Germany,569884,31-Dec-13
+44,M‡laga,Spain,566913,1-Jan-14
+45,Copenhagen,Denmark,559440,1-Jan-13
+46,Sheffield,United Kingdom,557382,30-Jun-12
+47,Lisbon,Portugal,547631,1-Jan-11
+48,Pozna_,Poland,547161,31-Mar-14
+49,Bremen,Germany,546451,31-Dec-12
+50,Vilnius,Lithuania,537152,1-Jan-13
+51,Leipzig,Germany,531562,31-Dec-13
+52,Dresden,Germany,530754,31-Dec-13
+53,Gothenburg,Sweden,528014,31-Mar-13
+54,Dublin,Ireland,527612,10-Apr-11
+55,Bradford,United Kingdom,524619,30-Jun-12
+56,Hanover,Germany,514137,31-Dec-12
+57,The Hague,Netherlands,510909,1-May-14
+58,Manchester,United Kingdom,510772,30-Jun-12
+59,Antwerp,Belgium,510610,1-Jan-14
+60,Edinburgh,United Kingdom,495360,30-Jun-11
+61,Nuremberg,Germany,495121,31-Dec-12
+62,Duisburg,Germany,486816,31-Dec-12
+63,Lyon,France,484344,31-Dec-10
+64,Liverpool,United Kingdom,469690,30-Jun-12
+65,Gda_sk,Poland,460354,30-Jun-12
+66,Toulouse,France,441802,31-Dec-10
+67,Murcia,Spain,441354,1-Jan-12
+68,Tallinn,Estonia,434810,1-Feb-15
+69,Bristol,United Kingdom,432451,30-Jun-12
+70,Bratislava,Slovakia Slovak Republic,417389,31-Dec-13
+71,Szczecin,Poland,409211,30-Jun-12
+72,Palma de Mallorca,Spain,407648,1-Jan-12
+73,Bologna,Italy,384202,31-Dec-13
+74,Las Palmas,Spain,382296,1-Jan-12
+75,Florence,Italy,377207,31-Dec-13
+76,Brno,Czech Republic,378327,1-Jan-13
+77,Bydgoszcz,Poland,362286,30-Jun-12
+78,Bochum,Germany,362213,31-Dec-12
+79,Bilbao,Spain,351629,1-Jan-12
+80,Cardiff,United Kingdom,348493,30-Jun-12
+81,Lublin,Poland,348120,30-Jun-12
+82,Nice,France,343304,31-Dec-10
+83,Wuppertal,Germany,342885,31-Dec-12
+84,Plovdiv,Bulgaria,341041,31-Dec-13
+85,Varna,Bulgaria,335819,31-Dec-13
+86,Alicante,Spain,334678,1-Jan-12
+87,Leicester,United Kingdom,331606,30-Jun-12
+88,Utrecht,Netherlands,330772,1-May-14
+89,C—rdoba,Spain,328841,1-Jan-12
+90,Bielefeld,Germany,328314,31-Dec-12
+91,Wakefield,United Kingdom,327627,30-Jun-12
+92,Aarhus,Denmark,326676,1-Oct-14
+93,Cluj-Napoca,Romania,324576,20-Oct-11
+94,Coventry,United Kingdom,323132,30-Jun-12
+95,Bari,Italy,322751,31-Dec-13
+96,Thessaloniki,Greece,322240,24-May-11
+97,Wirral,United Kingdom,320229,30-Jun-12
+98,Timi_oara,Romania,319279,20-Oct-11
+99,Catania,Italy,315576,31-Dec-13
+100,Valladolid,Spain,311501,1-Jan-12
+101,Bonn,Germany,309869,31-Dec-12
+102,Malmš,Sweden,309105,31-Mar-13
+103,Nottingham,United Kingdom,308735,30-Jun-12
+104,Katowice,Poland,308269,30-Jun-12
+105,Kaunas,Lithuania,306888,1-Jan-13
