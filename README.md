@@ -2,10 +2,6 @@
 
 Professor James Dolen
 
-Open notebooks in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/jdolen/PurdueNorthwest_PHYS308_ScientificComputing1/)
-
 
 Open notebooks in Binder:
 
